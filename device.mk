@@ -383,7 +383,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     init.btmac.sh \
     init.class_main.sh \
-    init.qcom.class_core.sh \
     init.qcom.post_boot.sh \
     init.qcom.sensors.sh \
     init.qcom.sh \
