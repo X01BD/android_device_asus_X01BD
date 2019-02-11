@@ -229,7 +229,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # System prop for UBWC
 PRODUCT_PROPERTY_OVERRIDES += \
-    video.disable.ubwc=1
+    vendor.video.disable.ubwc=1
 
 # Time
 PRODUCT_PROPERTY_OVERRIDES += \
